@@ -1,2 +1,2 @@
 config:
-  application-prod.yml&version=1
+  application-prod.yml&dev=true&version=1
