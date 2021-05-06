@@ -1,2 +1,2 @@
 config:
-  application-test.yml&dev=true&version=1
+  info: application-test.yml&dev=true&version=1
